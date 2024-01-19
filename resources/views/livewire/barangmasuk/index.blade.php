@@ -17,9 +17,9 @@
                     <option value="15">15</option>
                 </select>
             </div>
-            <div class="export mt-3 ms-3">
+            {{-- <div class="export mt-3 ms-3">
                 <button class="btn btn-success" style="height: 38px" wire:click='export'>Export</button>
-            </div>
+            </div> --}}
         </div>
         <!-- /.card-header -->
         <div class="card-body overflow-auto">
